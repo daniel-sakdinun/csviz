@@ -1,8 +1,8 @@
-Before do anything use:
-pip install -r requirements.txt
-(To install requirement dependency.)
+Before do anything use:<br />
+pip install -r requirements.txt<br />
+(To install requirement dependency.)<br />
 
-To run server:
-streamlit run app.py
+To run server:<br />
+streamlit run app.py<br />
 
 WebUi will be on http://localhost:8501
