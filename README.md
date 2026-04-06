@@ -4,5 +4,3 @@ pip install -r requirements.txt<br />
 
 To run server:<br />
 streamlit run app.py<br />
-
-WebUi will be on http://localhost:8501
